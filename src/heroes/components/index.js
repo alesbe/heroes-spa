@@ -1,2 +1,2 @@
-export * from './HeroeList'
+export * from './HeroList'
 export * from './HeroCard'
