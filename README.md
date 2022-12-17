@@ -8,6 +8,8 @@
 
 ![search](https://user-images.githubusercontent.com/30263316/208209122-da858658-9eb3-4bf6-b06a-ac342de5d598.png)
 
+#[Try it online](https://alesbe.github.io/heroes-spa/)
+
 ## 🌟 Features
 - Search for heroes by name or filter by publisher
 - Protected routes and user login with token (WIP)
@@ -24,3 +26,12 @@
 ## 🐞 Known bugs
 - Images don't show up in GH pages (The `HeroCard` component is getting the image from the wrong route)
 - The index route don't show anything (Is not fixed until the protected routes are not finished!)
+
+## ⚙️ Install
+The idea is to add a Dockerfile, but I'm waiting to finish the project, or at least, a working version.
+
+For now, you can use:
+```
+npm install
+npm run dev
+```
