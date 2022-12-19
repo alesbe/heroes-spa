@@ -8,7 +8,7 @@
 
 ![search](https://user-images.githubusercontent.com/30263316/208209122-da858658-9eb3-4bf6-b06a-ac342de5d598.png)
 
-#[Try it online](https://alesbe.github.io/heroes-spa/)
+# [Try it online](https://alesbe.github.io/heroes-spa/)
 
 ## 🌟 Features
 - Search for heroes by name or filter by publisher
